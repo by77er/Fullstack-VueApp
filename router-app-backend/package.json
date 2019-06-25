@@ -1,0 +1,12 @@
+{
+  "name": "router-app-backend",
+  "version": "1.0.0",
+  "description": "api for router app",
+  "main": "app.js",
+  "author": "by77er",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.11.0"
+  }
+}
