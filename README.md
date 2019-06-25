@@ -5,6 +5,8 @@ This repository consists of two main parts:
 
 The frontend is driven by the backend's REST API, and the backend is largely an interface to a local `postgres` database.
 
+![This is how it looks.](screenshot.png)
+
 
 ## Running this yourself
 Make sure postgres is installed. You may have to edit `router-app-backend/app.js` for your own credentials. 
