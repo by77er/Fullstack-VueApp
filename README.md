@@ -29,10 +29,12 @@ Once that's done, start two shells.
 With the first, 
 ```shell
 cd router-app-backend
+npm install
 node app.js
 ```
 With the second, 
 ```shell
 cd router-app
+npm install
 npm run dev
 ```
